@@ -1,14 +1,6 @@
-<h1>Hi there, My name is Mthunzi Sidwell Tom 👋</h1>
+# Hi 👋 there, I am Mthunzi Tom.
 
-<div>
-  <p>
-    🔭 I am currently learning fullstack development. I fell in love with coding because it is challenging and there
-    is always new things to learn. I am currently looking for new opportunities to be a lifelong learner and grow as a person and within a team.
-  </p>
-  <div>
-    ⚡ Fun fact: Collaboration is the best thing about coding.
-  </div>
-</div>
+## I am an Agile Fullstack Developer.
 
 <!--
 **tommyshado/tommyshado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
