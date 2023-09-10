@@ -1,6 +1,6 @@
 # Hi 👋 there, I am Mthunzi Tom.
 
-## I am an Agile Fullstack Developer.
+## I am a very passionate and hardworking Agile Fullstack Developer. I love collaborating and solving computational problems using programming languages and other tools.
 
 <!--
 **tommyshado/tommyshado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
