@@ -51,3 +51,11 @@
 &nbsp;&nbsp;&nbsp;
 
 </div>
+
+# 🌟 Favourite Repos
+
+<p align="center">
+    <a href="https://github.com/tommyshado/favorite-movies-api.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tommyshado&repo=favorite-movies-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges">
+    </a>
+</p>
+
