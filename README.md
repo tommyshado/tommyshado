@@ -51,3 +51,16 @@
 &nbsp;&nbsp;&nbsp;
 
 </div>
+
+## 🌻 Favourite Repos
+
+<p align="center">
+    <a href="https://github.com/tommyshado/ayoba-chat-api.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tommyshado&repo=ayoba-chat-api&theme=react&bg_color=1F222E&title_color=2541B2&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges">
+    </a>
+    <a href="https://github.com/tommyshado/schools_database.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tommyshado&repo=schools_database&theme=react&bg_color=1F222E&title_color=2541B2&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges">
+    </a>
+    <a href="https://github.com/tommyshado/Restaurant-Inputs-and-Outputs.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tommyshado&repo=Restaurant-Inputs-and-Outputs&theme=react&bg_color=1F222E&title_color=2541B2&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges">
+    </a>
+    <a href="https://github.com/tommyshado/PLpgSQL-101.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tommyshado&repo=PLpgSQL-101&theme=react&bg_color=1F222E&title_color=2541B2&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges">
+    </a>
+</p>
